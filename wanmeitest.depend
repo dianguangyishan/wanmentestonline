@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1475056640 source:f:\personalplace\wanmeitest\main.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<algorithm>
+
